@@ -37,5 +37,3 @@ patch < /path/to/iceberg.diff
 The gruvbox-material has to be placed in two places, one under the plugin directory and one with regular colorschemes. The `gruvbox_material.vim` needs to be placed under plugins directory, and the `gruvbox-material.vim` with the regular colorschemes under `/usr/share/vim/vim81/colors/`
 
 Enjoy!
-
-Feel free to support with [bitcoin] 13erq7DDXDuqqBohht3UNyuJCXtpJcWGSe
